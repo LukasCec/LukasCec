@@ -3,6 +3,10 @@
 I'm a passionate developer who loves exploring new technologies and building creative projects. Whether it's web apps, games, or AI tools, I'm always eager to learn and bring ideas to life through code.
 
 ---
+ ## 🧑‍🎓 Education
+ 
+ Bachelor's Degree in CS - Technical University of Košice
+---
 
 ## 🚀 Projects
 

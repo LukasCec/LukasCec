@@ -6,7 +6,7 @@ I'm a passionate developer who loves exploring new technologies and building cre
  ## 🧑‍🎓 Education
  
  Bachelor's Degree in CS - Technical University of Košice
----
+
 
 ## 🚀 Projects
 
